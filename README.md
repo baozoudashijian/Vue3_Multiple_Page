@@ -1,5 +1,9 @@
 # vite支持多页面打包
 
+## 开始
++ pnpm install
++ Build_Dir=v20230214 pnpm run build
+
 ## 解决的bug
 + 不支持TSX
 + 如何传递和获取动态环境变量
